@@ -1,4 +1,4 @@
-👋 Hi, I’m Gianina Soloa, I'm a web developer, web designer and graphic designer. I am currently an advanced student of the Full Stack Developer Career at Coderhouse.
+👋 Hi, I’m Gianina Soloa, I'm a web developer, web designer and graphic designer.
 
 I enjoy developing and designing custom websites with a modern and functional design.
 
